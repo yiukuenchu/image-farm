@@ -1,9 +1,9 @@
 <div align="center"><img src="https://raw.githubusercontent.com/yiukuenchu/image-farm/master/img/image-farm-banner.png" alt="Icon Badge" width="50%" /></div>
 
-<h1 align="center">在 Image-Farm 存放一些公开的图片资源文件</h1>
+<h1 align="center">优雅地使用 GitHub 作为图床</h1>
 
 <p align="center">
-<strong>优雅地使用 GitHub 作为图床</strong>
+<strong>在 Image-Farm 存放一些公开的图片资源文件</strong>
 </p>
 
 <div align="center">
